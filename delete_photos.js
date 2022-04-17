@@ -9,7 +9,7 @@ const ELEMENT_SELECTORS = {
     deleteButton: 'button[aria-label="Delete"]',
     languageAgnosticDeleteButton: 'div[data-delete-origin] > button',
     deleteButton: 'button[aria-label="Delete"]',
-    confirmationButton: '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.V639qd.bvQPzd.oEOLpc.Up8vH.J9Nfi.A9Uzve.iWO5td > div.XfpsVe.J9fJmf > button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.nCP5yc.kHssdc.HvOprf'
+    confirmationButton: '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.V639qd.bvQPzd.oEOLpc.Up8vH.J9Nfi.A9Uzve.iWO5td > div.XfpsVe.J9fJmf > button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.nCP5yc.AjY5Oe.qfvgSe.kHssdc.HvOprf'
 }
 
 // Time Configuration (in milliseconds)
